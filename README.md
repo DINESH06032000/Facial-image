@@ -48,4 +48,7 @@ These coordinates are then used to anonymize or modify identifiable regions of t
 
 ---
 
-## 📁 Project Structure (Sample)
+## 📝 How to Run
+1. Install required Python libraries:
+   ```bash
+   pip install dlib opencv-python numpy imutils
